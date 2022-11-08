@@ -1,0 +1,44 @@
+body {
+  background-color: #fffbf4;             
+}
+
+html, body,{
+  height: 100%;
+  width: 100%;
+background-color:#feecff;
+ 
+ 
+}
+
+h3 {
+  text-shadow:9cm;
+  color: #faf2e7;
+  background-color:#f6c8de;
+  padding:10px 20px 15px 20px;
+  border: 25px solid transparent;
+  border-image:url("")90 round;
+
+}
+
+button {
+  background:#f6c8de;
+  color:#faf2e7;
+  border-style:dotted;
+  border-bottom-color:#feecff;
+  border-top-color:#feecff;
+  border-left-color:#feecff;
+  border-right-color:#feecff;
+  padding:10px 20px 10px 20px;
+    
+}
+
+
+
+
+
+
+  
+
+  
+
+
